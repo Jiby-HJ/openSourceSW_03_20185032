@@ -1,2 +1,10 @@
-# openSourceSW_03_20185032
-20185032 장현준 오픈소스SW개론 03분반 과제1
+### openSourceSW_03_20185032
+
+
+- **getopt**
+
+- **getopts**
+
+- **sed**
+
+- **awk**
